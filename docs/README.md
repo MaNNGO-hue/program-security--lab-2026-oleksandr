@@ -13,3 +13,4 @@
 * * [Політика контролю цілісності та автентичності (SHA-256, HMAC-SHA256, AES-GCM)](internal_spec/integrity_and_authenticity.md)
 * * [Модель розповсюдження та політика захисту ліцензій (RSA-3072-PSS)](internal_spec/licensing_and_protection.md)
 * * [Політика протидії реверсивній інженерії (обфускація, Control-Flow Flattening, Anti-Debug)](internal_spec/anti_reversing_policy.md)
+* * [Клієнт-серверна модель довіри та мережева авторизація (JWT Bearer, RBAC/ABAC)](internal_spec/client_server_trust_model.md)
