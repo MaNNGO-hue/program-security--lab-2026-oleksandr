@@ -1,0 +1,13 @@
+{
+  "licenseId": "SFV-PRO-2026-02",
+  "productId": "SafeVault",
+  "licensee": "Bereziuk Oleksandr (KBZI-23-1)",
+  "expiresAt": "2027-12-31T23:59:59Z",
+  "maxDevices": 5,
+  "features": [
+    "MfaProtectedNotes",
+    "CustomTtlPolicy",
+    "AuditLogExport",
+    "KeyRotationManagement"
+  ]
+}
