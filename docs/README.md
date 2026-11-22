@@ -9,3 +9,4 @@
 * [Політика безпеки проєкту](policy/security_policy.md)
 * [Політика конфіденційності](policy/privacy_policy.md)
 * [Модель загроз STRIDE](internal_spec/threat_model.md)
+* [Стратегія симетричного криптографічного захисту (AES-256-GCM)](internal_spec/symmetric_encryption.md)
